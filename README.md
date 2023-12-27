@@ -1,10 +1,11 @@
 <h1 align="center" paddin> МИНИСТЕРСТВО НАУКИ И ВЫСШЕГО ОБРАЗОВАНИЯ РОССИЙСКОЙ ФЕДЕРАЦИИ ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ ОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ ВЫСШЕГО ОБРАЗОВАНИЯ «САХАЛИНСКИЙ ГОСУДАРСТВЕННЫЙ УНИВЕРСИТЕТ»</h1>
-
-<p align="center">Лабораторная работа №7. «Разработка серверных скриптов». </p>
-
+<br><br><br><br><br>
+<p align="center"><strong>Лабораторная работа №6. «Модель DOM».</strong></p>
+<br><br><br><br><br><br><br><br><br><br><br>
+<br>
 <p align="right">Выполнил: Рогаль Сергей Александрович</p>
 <p align="right">Проверил: Соболев Е. И.</p>
-
+<br><br><br>
 <p align="center">г. Южно-Сахалинск <br> 2023 год</p>
 
 <h2 align="center">Введение</h2>
@@ -178,7 +179,7 @@ function division(){
     alert(`${a} / ${b} = ${a/b}`);
 }
 ```
-<pЗадание Node JS: Написать простой сайт о себе c блоками, header, nav, footer, используете три движка pug, handlebars, EJS</p>
+<p> Задание Node JS: Написать простой сайт о себе c блоками, header, nav, footer, используете три движка pug, handlebars, EJS</p>
 
 ```javascript
 const express = require('express');
@@ -211,6 +212,8 @@ app.listen(PORT, () => {
 });
 
 ```
+
+<h3>CodeWars</h3>
 <p>The Coupon Code</p>
 
 ```javascript
